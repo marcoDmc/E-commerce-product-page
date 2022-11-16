@@ -174,7 +174,6 @@ export default {
           />
           <span class="info">
             <p>fall limited edition sneakers</p>
-            <!-- <p>{{ counter }}</p> -->
             <p>
               $125.00 x {{ counter }}
               <strong class="total">{{ totalFormat }}</strong>
